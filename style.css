@@ -1,0 +1,33 @@
+/* style.css */
+.menu-item {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #f8f9fa;
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+.menu-item:hover {
+    background-color: #e2e6ea;
+    border-color: #c6cace;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+    color: #007bff;
+}
+
+.menu-item .icon {
+    font-size: 3em;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+.menu-item .text {
+    font-size: 0.9em;
+    font-weight: bold;
+}
