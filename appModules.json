@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Sistem Informasi Penjualan",
+        "image": "https://plus.unsplash.com/premium_photo-1720032305135-a87c5e0888b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Sistem yang memudahkan pencatatan transaksi penjualan, manajemen stok barang, hingga pembuatan laporan keuangan secara otomatis.",
+        "url": "https://example.com/penjualan",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1720503225766-21dff692f754?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1722176809011-7e5677562960?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+            "https://plus.unsplash.com/premium_photo-1721920066980-136a3f61d827?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+            "https://plus.unsplash.com/premium_photo-1720746439901-83136632ac0d?q=80&w=1678&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1720746439942-1026bc5b9b93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wxfHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1720287601013-69bed792f481?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1683725241011-99d4d32b1543?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI5fHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1681487748082-839c7c0ee0c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    },
+    {
+        "title": "Aplikasi Manajemen Proyek",
+        "image": "https://plus.unsplash.com/premium_photo-1661663748661-49058ed13db1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Alat untuk melacak kemajuan proyek, mengelola tugas, dan berkolaborasi dengan tim secara efisien.",
+        "url": "https://example.com/proyek",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1681680196967-1ebbf45bb4fd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1661663748661-49058ed13db1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    },
+    {
+        "title": "Platform E-Learning Interaktif",
+        "image": "https://plus.unsplash.com/premium_photo-1671461774955-7aab3ab41b90?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Menyediakan kursus online, kuis interaktif, dan forum diskusi untuk pengalaman belajar yang menarik.",
+        "url": "https://example.com/elearning",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1678824564926-94a16547b42d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDUzfHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1745835774540-3b9a76cce838?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU2fHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1661777425283-58239dc9b615?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    },
+    {
+        "title": "Sistem Reservasi Online",
+        "image": "https://plus.unsplash.com/premium_photo-1664297507519-776d32207b74?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+        "description": "Memudahkan pelanggan untuk memesan layanan atau tempat secara online, dengan notifikasi instan.",
+        "url": "https://example.com/reservasi",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1661389425744-c31ddd55c7b6?q=80&w=1685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1661313626479-80dec69eba84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIzfHx8ZW58MHx8fHx8"
+        ]
+    },
+    {
+        "title": "Sistem Informasi Penjualan",
+        "image": "https://plus.unsplash.com/premium_photo-1720032305135-a87c5e0888b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Sistem yang memudahkan pencatatan transaksi penjualan, manajemen stok barang, hingga pembuatan laporan keuangan secara otomatis.",
+        "url": "https://example.com/penjualan",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1720503225766-21dff692f754?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1722176809011-7e5677562960?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+            "https://plus.unsplash.com/premium_photo-1721920066980-136a3f61d827?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D",
+            "https://plus.unsplash.com/premium_photo-1720746439901-83136632ac0d?q=80&w=1678&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1720746439942-1026bc5b9b93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1pbi1zYW1lLXNlcmllc3wxfHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1720287601013-69bed792f481?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1683725241011-99d4d32b1543?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI5fHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1681487748082-839c7c0ee0c4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    },
+    {
+        "title": "Platform E-Learning Interaktif",
+        "image": "https://plus.unsplash.com/premium_photo-1671461774955-7aab3ab41b90?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Menyediakan kursus online, kuis interaktif, dan forum diskusi untuk pengalaman belajar yang menarik.",
+        "url": "https://example.com/elearning",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1678824564926-94a16547b42d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDUzfHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1745835774540-3b9a76cce838?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU2fHx8ZW58MHx8fHx8",
+            "https://plus.unsplash.com/premium_photo-1661777425283-58239dc9b615?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    },
+    {
+        "title": "Aplikasi Manajemen Proyek",
+        "image": "https://plus.unsplash.com/premium_photo-1661663748661-49058ed13db1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Alat untuk melacak kemajuan proyek, mengelola tugas, dan berkolaborasi dengan tim secara efisien.",
+        "url": "https://example.com/proyek",
+        "screenshots": [
+            "https://plus.unsplash.com/premium_photo-1681680196967-1ebbf45bb4fd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1661663748661-49058ed13db1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ]
+    }
+]
